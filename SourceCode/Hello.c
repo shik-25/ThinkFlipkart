@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main(){
-	printf("Hello World master");
+	printf("Hello World conflict resolved");
 }
